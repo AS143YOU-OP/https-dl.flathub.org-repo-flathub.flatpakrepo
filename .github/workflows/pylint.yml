@@ -21,3 +21,6 @@ jobs:
     - name: Analysing the code with pylint
       run: |
         pylint $(git ls-files '*.py')
+
+        
+{!{https://github.com/AS143YOU-OP/https-dl.flathub.org-repo-flathub.flatpakrepo/actions/workflows/pylint.yml/badge.svg
